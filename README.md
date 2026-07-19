@@ -1,4 +1,4 @@
-# -sundeepchowdary.github.io
+# -Sundeep-005.github.io
 My cybersecurity learning journey with practical labs, projects, and experiments in SOC operations, networking, and security fundamentals
 🛡️ Cybersecurity Portfolio – L Sundeep Chowdary
 
