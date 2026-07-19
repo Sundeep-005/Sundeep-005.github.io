@@ -1,67 +1,44 @@
-# -Sundeep-005.github.io
-My cybersecurity learning journey with practical labs, projects, and experiments in SOC operations, networking, and security fundamentals
-🛡️ Cybersecurity Portfolio – L Sundeep Chowdary
+🎯 About Me
 
-🚀 About Me
-Aspiring SOC Analyst with a strong foundation in network security, threat detection, and incident response. Passionate about analyzing security events, investigating threats, and building secure environments through hands-on labs and real-world projects.
+I'm a final-year B.E. Computer Science (Cyber Security) student building hands-on skills in SOC operations, network security, and threat detection through practical labs — not just coursework. I focus on turning raw logs and packet captures into clear, actionable findings, the same way an analyst would in a real SOC.
 
-🎯 Focus Areas: SOC Operations, SIEM Monitoring, Threat Hunting
-🧠 Frameworks: MITRE ATT&CK, NIST CSF
-🛠️ Tools: Wireshark, Splunk, Wazuh, Snort, YARA
-🎓 B.E. CSE (Cyber Security) – Graduating 2026
+Currently looking for internship / entry-level SOC Analyst or Security Analyst opportunities.
 
-🧰 Technical Skills
 
-🔐 Network Security
-TCP/IP, Routing, Packet Analysis
-Wireshark, Snort
+🔭 Currently building: OSINT-based threat intelligence tooling
+🌱 Currently learning: Detection engineering with Splunk & Wazuh
+📫 Reach me: l.sundeepchowdary@gmail.com · LinkedIn
+🎓 B.E. CSE (Cyber Security), Cambridge Institute of Technology North Campus, Bengaluru — 2022–2026
 
-🚨 Incident Response
-Alert Triage
-Log Investigation
-SOC Playbooks
 
-🕵️ Threat Detection & Malware Analysis
-YARA Rules
-Static & Dynamic Analysis
-Any.Run
 
-📊 SIEM & Monitoring
-Splunk
-Wazuh
-Log Monitoring & SOC Reporting
+🛠️ Tools & Skills
 
-🖥️ Systems & Vulnerability Assessment
-Linux (Ubuntu, Kali), Windows
-Trivy, Lynis
-Linux Hardening
+SIEM & Monitoring: Splunk · Wazuh · Log Analysis
+Network Security: Wireshark · Snort · Nmap · TCP/IP & Packet Analysis
+Threat Detection & Malware Analysis: YARA · FlareVM · REMnux · Any.Run
+Vulnerability & System Hardening: Trivy · Lynis · Linux (Kali, Ubuntu) Hardening
+Offensive/Recon Basics: Nmap · Burp Suite
+Frameworks: MITRE ATT&CK · NIST CSF
+Languages/Scripting: Python
 
-📂 Projects
-🔍 Packet Analysis System
-Built a network traffic analysis workflow using Wireshark + Python
-Detected anomalies: port scans, suspicious IPs, malformed packets
-Generated automated SOC-style incident reports
 
-🦠 Malware Analysis Lab
-Created isolated lab using FlareVM & REMnux
-Performed static & dynamic malware analysis
-Studied persistence mechanisms & evasion techniques
+🚀 Highlighted Projects
 
-🛠️ Hybrid Vulnerability Assessment
-Combined Trivy (container scanning) + Lynis (system auditing)
-Generated unified vulnerability & hardening reports
-Prioritized remediation strategies
+Packet Analysis System
+Built a Wireshark + Python workflow to capture and analyze network traffic — flagged port scans, suspicious IPs, and malformed packets, and auto-generated SOC-style incident reports.
 
-🧬 Threat Detection with YARA
-Developed custom YARA rules for malware detection
-Automated scanning workflows
-Reduced manual analysis effort
+Malware Analysis Lab
+Set up an isolated FlareVM/REMnux environment to run static and dynamic analysis on malware samples, documenting persistence and evasion techniques observed.
 
-🌐 Dark Web Crypto Tracker (Ongoing)
-Built OSINT pipeline using Scrapy + Tor
-Extracting crypto transaction patterns
-Using OnionScan + OCR for hidden data extraction
+Hybrid Vulnerability Assessment
+Combined Trivy (container scanning) and Lynis (system auditing) into a single hardening report, prioritizing remediation steps across containerized and bare-metal systems.
+
+(→ full project list and write-ups on my portfolio site)
+
 
 📜 Certifications
-🎓 Google Cybersecurity Professional Certificate (Coursera)
-🔴 SOC Analyst Level 1 – TryHackMe
+
+
+Google Cybersecurity Professional Certificate — Google/Coursera, Jun 2025 [verify]
+SOC Analyst Level 1 — TryHackMe [verify
